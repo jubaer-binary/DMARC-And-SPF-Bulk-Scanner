@@ -1,6 +1,5 @@
 # DMARC-Scanner
 
-Basic DMARC scanner to scan a list of subdomains which are missing DMARC records
-This tool is built for cloudflare environment
+Basic DMARC And SPF scanner to scan a list of subdomains which are missing DMARC records
 
-New features will be added in near future.
+You can take a list of subdomains and it will do its job showing you all the results for SPF and DMARC.
