@@ -1,10 +1,4 @@
-
-                                                                                  
-
-╔╦╗ ╔═╗ ╔═╗┌─┐┌─┐┌┐┌┌┐┌┌─┐┬─┐
- ║║ ╚═╗ ╚═╗│  ├─┤││││││├┤ ├┬┘
-═╩╝o╚═╝o╚═╝└─┘┴ ┴┘└┘┘└┘└─┘┴└─
-
+# DMARC AND SPF Scanner For Subdomains
 
 Basic DMARC And SPF scanner to scan a list of subdomains which are missing DMARC And SPF records.
 
